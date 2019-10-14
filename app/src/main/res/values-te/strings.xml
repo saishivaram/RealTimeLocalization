@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RealTimeLocalization</string>
+    <string name="back">తిరిగి</string>
+    <string name="chlng">భాష మార్చు</string>
+    <string name="name">పేరు</string>
+    <string name="password">పాస్వర్డ్</string>
+    <string name="submit">సమర్పించిన</string>
+</resources>
